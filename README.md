@@ -1,0 +1,3 @@
+# Financial-Instruments---Performance-Review
+In this project, we implemented a performance review of 3 classes of financial instruments: Mutual Fund (Vanguard Total Stock Market market Index Admiral Shares (VTSAX)), ETF (The Vanguards Total Stock Market ETF (VTI), and Indexed Annuities. We analysed the performance of these assets classes based on the Collateral-related risks, statistical-related risks, magnifying risks and frictional risk factors.
+Lastly, we also analyzed the Mutual Fund Crisis (2003) - comparing mutual fund crisis in America and Japan in 2023. Additionally we also analysed the difference between physical and syntethic ETFs, and lastly, discussed extensively the advantages and disadvantages of the Indexed Annuities.
